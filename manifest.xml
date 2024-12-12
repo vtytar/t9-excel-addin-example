@@ -20,14 +20,14 @@
 
   <Resources>
     <WebApplication>
-      <SourceLocation DefaultValue="https://vtytar.github.com/t9-excel-addin-example" />
+      <SourceLocation DefaultValue="https://vtytar.github.io/t9-excel-addin-example" />
     </WebApplication>
   </Resources>
 
   <Permissions>ReadWriteDocument</Permissions>
 
   <Action xsi:type="ShowTaskpane">
-    <SourceLocation DefaultValue="https://vtytar.github.com/t9-excel-addin-example/taskpane.html" />
+    <SourceLocation DefaultValue="https://vtytar.github.io/t9-excel-addin-example/taskpane.html" />
   </Action>
 
 </OfficeApp>
