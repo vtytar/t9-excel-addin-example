@@ -18,16 +18,10 @@
     <Host Name="Workbook" />
   </Hosts>
 
-  <Resources>
-    <WebApplication>
-      <SourceLocation DefaultValue="https://vtytar.github.io/t9-excel-addin-example" />
-    </WebApplication>
-  </Resources>
+  <DefaultSettings>
+    <SourceLocation DefaultValue="https://vtytar.github.io/t9-excel-addin-example" />
+  </DefaultSettings>
 
   <Permissions>ReadWriteDocument</Permissions>
-
-  <Action xsi:type="ShowTaskpane">
-    <SourceLocation DefaultValue="https://vtytar.github.io/t9-excel-addin-example/taskpane.html" />
-  </Action>
 
 </OfficeApp>
