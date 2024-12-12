@@ -1,2 +1,2 @@
-# t9-excel-addon-example
+# t9-excel-addin-example
 Example project
