@@ -11,7 +11,7 @@
   <Description>A minimal Excel add-in with a button</Description>
   
   <AppDomains>
-    <AppDomain>https://vtytar.github.com/</AppDomain>
+    <AppDomain>https://vtytar.github.io/</AppDomain>
   </AppDomains>
 
   <Hosts>
